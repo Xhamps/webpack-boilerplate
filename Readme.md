@@ -14,6 +14,10 @@
 - [Font Magician](https://github.com/jonathantneal/postcss-font-magician)
 - [Svg Sprite](https://github.com/kisenka/svg-sprite-loader)
 
+## Credits
+
+This boilerplate uses as a base the awesome [Kratos Boilerplate](https://github.com/LFeh/kratos-boilerplate/) by [@LFeh](https://twitter.com/LFeh) :heart:
+
 ## Getting Started
 
 Clone Repo
