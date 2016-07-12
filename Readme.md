@@ -2,7 +2,17 @@
 
 ## Features
 
-- List of advertisement
+- [React](https://facebook.github.io/react/)
+- [Babel - Suport ES2015](https://babeljs.io/)
+- [Eslint - Airbnb](http://eslint.org/)
+- [Stylus](http://stylus-lang.com/)
+- [Rupture](https://github.com/jescalan/rupture)
+- [PostCSS](http://postcss.org/)
+- [Lost](http://lostgrid.org/)
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
+- [Rucksack](https://simplaio.github.io/rucksack/)
+- [Font Magician](https://github.com/jonathantneal/postcss-font-magician)
+- [Svg Sprite](https://github.com/kisenka/svg-sprite-loader)
 
 ## Getting Started
 
