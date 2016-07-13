@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --config ./webpack/webpack-dev.config.js --watch --colors --open"
+    "dev": "webpack-dev-server --config ./webpack/webpack-dev.config.js --watch --colors --open",
+    "build": "rimraf dist && webpack --config ./webpack/webpack-prod.config.js --colors"
   },
   "author": "Xhamps <xhamps@gmail.com>",
   "license": "MIT",
@@ -24,11 +25,13 @@
     "eslint-plugin-import": "^1.8.0",
     "eslint-plugin-jsx-a11y": "^1.2.0",
     "eslint-plugin-react": "^5.1.1",
+    "extract-text-webpack-plugin": "^1.0.1",
     "html-webpack-plugin": "^2.22.0",
     "lost": "^7.0.3",
     "open-browser-webpack-plugin": "0.0.2",
     "postcss-font-magician": "^1.4.0",
     "postcss-loader": "^0.9.1",
+    "rimraf": "^2.5.3",
     "rucksack-css": "^0.8.6",
     "rupture": "^0.6.1",
     "style-loader": "^0.13.1",

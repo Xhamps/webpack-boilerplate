@@ -40,6 +40,16 @@ npm install
 npm run dev
 ````
 
+### Production
+
+Build for production
+
+````
+npm run build
+````
+
+The result is in the ``dist`` folder!
+
 ### License
 
 MIT
