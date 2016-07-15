@@ -29,6 +29,7 @@
     "expect": "^1.20.2",
     "extract-text-webpack-plugin": "^1.0.1",
     "html-webpack-plugin": "^2.22.0",
+    "image-webpack-loader": "^2.0.0",
     "lost": "^7.0.3",
     "mocha": "^2.5.3",
     "open-browser-webpack-plugin": "0.0.2",
