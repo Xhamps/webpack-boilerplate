@@ -27,6 +27,7 @@
     "eslint-plugin-jsx-a11y": "^1.2.0",
     "eslint-plugin-react": "^5.1.1",
     "expect": "^1.20.2",
+    "expect-jsx": "^2.6.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "html-webpack-plugin": "^2.22.0",
     "image-webpack-loader": "^2.0.0",
