@@ -50,6 +50,15 @@ npm run build
 
 The result is in the ``dist`` folder!
 
+### Test
+
+To run the test
+
+````
+npm run test
+````
+
+
 ### License
 
 MIT
