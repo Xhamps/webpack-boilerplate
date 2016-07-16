@@ -55,8 +55,7 @@ module.exports = {
         test: /\.svg$/,
         loader: 'svg-sprite?' + JSON.stringify({
           name: '[name]_[hash]',
-          prefixize: true,
-          spriteModule: 'utils/my-custom-sprite'
+          prefixize: true
         })
       },
       {
